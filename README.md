@@ -1,2 +1,3 @@
 # First_Rep
-#Repository für Webscraper Projekt
+Erstes Repository 
+Webscraper Projekt
